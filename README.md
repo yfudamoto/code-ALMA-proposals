@@ -1,7 +1,7 @@
 *This is made by Y. Fudamoto*
 
 ### Estimate_IRflux.ipynb
-[This](Estimate_IRflux.ipynb) will calculate IR fluxes for arbitarary wavelength (8-1000um) using pre-calculated FIR SED templates
+[This](Estimate_IRflux.ipynb) will calculate IR fluxes for arbitarary wavelength (8-1000um) assuming dust temperature 20K < Td < 80K using pre-calculated FIR SED templates
 
 ### Duplicate_check.ipynb
 [This](Duplicate_check.ipynb) will search on-going duplicate observations by object positions. <br>
